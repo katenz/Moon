@@ -3,10 +3,11 @@ layout: page
 title: About Kate Fulton
 tags: [about, nelson, city]
 date: 2017-01-15
+feature: http://katefulton.nz/assets/img/posts/twins.jpg
 comments: false
 ---
 
-<center>Kate Fulton lives in Nelson, New Zealand and is a third term Nelson City Councillor. She is standing for the Green Party representing the West Coast-Tasman electorate in the 2017 central government elections.</center>
+<center>Kate Fulton lives in Nelson, New Zealand and is a third term Nelson City Councillor. She is intending to stand for the Green Party, representing the West Coast-Tasman electorate in the 2017 central government elections.</center>
 
 > *Kate Fulton combines compassion and a concern for her community with intelligence and demonstrated ability. — Philip Woollaston, former Mayor of Nelson.*
 
