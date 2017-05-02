@@ -4,7 +4,7 @@ title: "Dispelling the Myths Around Sugar - Sixty Years On"
 date: 2017-05-02
 excerpt: "Food is defined as 'any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth'."
 tags: [myths, sugar]
-feature: http://katefulton.nz/assets/img/posts/broccoli.png
+feature: http://katefulton.nz/assets/img/posts/broccoli.jpg
 comments: true
 ---
 
