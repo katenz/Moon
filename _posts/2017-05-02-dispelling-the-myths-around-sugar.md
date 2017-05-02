@@ -9,7 +9,7 @@ comments: true
 ---
 
 # Dispelling the Myths Around Sugar
-## Sixty Years On
+## Sixty Years On - Kate Fulton
 
 Food is defined as *'any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth'*. Documentaries like That Sugar Film and Supersize Me highlight the health consequences of consuming addictive and nutritionally poor *'food-like'* substances. Many of us know what we should and shouldn't eat, yet we seem unable to resist due to the strength of addiction and misleading marketing. For sixty years we've individually tried to navigate our way through the myriad of myths. It's time for the Government to show true leadership.
 
