@@ -4,12 +4,14 @@ title: "Dispelling the Myths Around Sugar - Sixty Years On"
 date: 2017-05-02
 excerpt: "Food is defined as 'any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth'."
 tags: [myths, sugar]
-feature: http://katefulton.nz/assets/img/posts/sugar-header.png
+feature: http://katefulton.nz/assets/img/posts/broccoli.png
 comments: true
 ---
 
 # Dispelling the Myths Around Sugar
 ## Sixty Years On - Kate Fulton
+
+![Image of fruit and vegetables](http://katefulton.nz/assets/img/posts/sugar-header.png)
 
 Food is defined as *'any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth'*. Documentaries like That Sugar Film and Supersize Me highlight the health consequences of consuming addictive and nutritionally poor *'food-like'* substances. Many of us know what we should and shouldn't eat, yet we seem unable to resist due to the strength of addiction and misleading marketing. For sixty years we've individually tried to navigate our way through the myriad of myths. It's time for the Government to show true leadership.
 
@@ -21,8 +23,8 @@ You may wonder how long the harmfulness of sugar been known? You might be surpri
 
 Fortunately, some sixty years later, governments around the world are finally responding. Clearly, the current NZ government is no longer taking a lead when it comes to developing policy, but there are now models from around the world, which could at least be followed. In the UK, a sugar tax on soft drinks, which have zero nutritional benefit, will be introduced in 2018. Public Health England is also developing a comprehensive approach to reducing sugar consumption, including industry guidelines to reduce sugar by 200,000 tonnes per year by 2020.
 
-![Image of fruit and vegetables](http://katefulton.nz/assets/img/posts/fruit-and-veg.png)
-
 With NZ obesity rates ranked third in the world (behind America and Mexico), the NZ Medical Association 2015 report identifies a *'public health crisis'* which it declares must be responded to via the introduction of a comprehensive public health policy. It recognises that self-regulation of the food industry has not worked, stating *"a prevailing ideology of individual responsibility and vested commercial interests have combined to thwart, dilute and undermine previous attempts at effective policies to counter the challenge of obesity."*
 
 Around 66% of NZ voters support a refined sugar tax, similar to the one being introduced in the UK. It might be expected that the current NZ government would at least consider the popularity of this tax, reflect on its ideology and respond. Finally, surely, the experience garnered from Aotearoa's own smoking cessation policy and it's huge success is evidence enough that such public health policies do work in Aotearoa.
+
+![Image of fruit and vegetables](http://katefulton.nz/assets/img/posts/fruit-and-veg.png)
